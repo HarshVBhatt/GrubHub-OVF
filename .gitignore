@@ -1,2 +1,4 @@
 grubhub_ovf/
 raw_data/
+*.pem
+*.DS_Store

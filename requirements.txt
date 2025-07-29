@@ -1,5 +1,29 @@
+# Core
 pandas
 numpy
+boto3
+s3fs
+pyarrow
+
+# Modeling
 prophet
 statsmodels
+scikit-learn
+joblib
+
+# Distributed computing
+dask[complete]
+distributed
+
+# Database/Querying
+presto-python-client
+pyhive
+
+# Orchestration
+apache-airflow
+
+# Utilities
+click
+tqdm
+matplotlib
 seaborn

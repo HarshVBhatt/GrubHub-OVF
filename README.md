@@ -145,4 +145,4 @@ For issues or questions:
 
 ## License
 
-This implementation is for educational purposes. Make sure to give due credits if using or replicating somewhere
+This implementation is for educational purposes. Make sure to give due credits when using/replicating
